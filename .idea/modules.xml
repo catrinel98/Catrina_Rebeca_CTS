@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Catrina_Rebeca_CTS.iml" filepath="$PROJECT_DIR$/.idea/Catrina_Rebeca_CTS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seminar2/Catrina_rebeca_cts/Catrina_rebeca_cts.iml" filepath="$PROJECT_DIR$/seminar2/Catrina_rebeca_cts/Catrina_rebeca_cts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seminar2/src/seminar2.iml" filepath="$PROJECT_DIR$/seminar2/src/seminar2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seminar4/seminar4.iml" filepath="$PROJECT_DIR$/seminar4/seminar4.iml" />
+    </modules>
+  </component>
+</project>
